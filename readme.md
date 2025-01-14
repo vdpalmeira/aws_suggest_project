@@ -27,8 +27,11 @@ A implementação de ferramentas na empresa Abstergo Industries tem como esperad
 
 ## Anexos
 [AWS Blog - Moving from on premises to the cloud with AWS delivers significant cost savings](https://aws.amazon.com/pt/blogs/aws-insights/moving-from-on-premises-to-the-cloud-with-aws-delivers-significant-cost-savings-report-finds/)
+
 [Documentação do Amazon S3](https://docs.aws.amazon.com/pt_br/s3/?id=docs_gateway)
+
 [Documentação do Amazon EC2](https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/concepts.html)
+
 [Documentação do AWS Lambda](https://docs.aws.amazon.com/pt_br/lambda/)
 
 ## Assinatura do Responsável pelo Projeto:
